@@ -44,7 +44,7 @@
         duration: "July 2025 - Present",
         type: "On-site",
         description: "Currently working as an Intern at the Real Time Governance Society (RTGS), Chief Minister's Office, Government of Andhra Pradesh, where I am assisting in the development of real-time analytical solutions and contributing to key governance initiatives.",
-          officePhoto: "/officephoto.jpg", // Actual office photo OF ME 
+          officePhoto: "/rtgs office.jpg", // Actual office photo OF ME (replaced - same size expected)
         achievements: ["Developed real-time analytical solutions to support fast news monitoring and informed decision-making.",
 
   "Contributed to key governance initiatives by building technology that enhanced state-level operations.",
